@@ -1,0 +1,4 @@
+#!/usr/bin/exec-suid -- /usr/local/bin/python -I
+
+with open("/flag") as f:
+    print(f.read())

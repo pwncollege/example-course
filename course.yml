@@ -1,0 +1,10 @@
+student_id: "Unique Student Identifier"
+
+# Start date of the course
+start_date: "2025-08-15T00:00:00-07:00"
+
+# Freeform yaml value to include any course specific instructions
+syllabus: |
+  # Example Course Syllabus
+
+  This is an example syllabus written in markdown.  Some markdown functionality is only allowed in "official" dojos to prevent potential misuse.
